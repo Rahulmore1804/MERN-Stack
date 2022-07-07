@@ -7,7 +7,7 @@ app.use(exp.json());
 
 const mongoose = require("mongoose");
 mongoose.connect(
-  "mongodb+srv://40@cluster0.qvjgby3.mongodb.net/kiralogin",
+  "mongodb+srv://9%40@cluster0.qvjgby3.mongodb.net/kiralogin",
   { useNewUrlParser: true }
 );
 const loginSchema = {

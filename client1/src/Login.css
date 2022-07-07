@@ -1,0 +1,27 @@
+.whole{
+    display: inline-grid;
+    grid-template-columns: auto auto ;
+}
+
+.reg form{
+    margin-left: 10vw;
+  display: flex;
+  flex-direction: column;
+    width: 40vw;
+    
+}
+.log form{
+    display: flex;
+    flex-direction: column;
+    width: 40vw;  
+}
+
+.reg button,input{
+    width:300px;
+    
+   
+}
+.log button,input{
+    width:300px;
+   
+}

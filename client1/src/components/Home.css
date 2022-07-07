@@ -1,0 +1,6 @@
+.card{
+    display: inline-grid;
+    grid-template-columns: auto auto  auto ;
+    gap: 10px 10px;
+    background-color: darkkhaki;
+}
